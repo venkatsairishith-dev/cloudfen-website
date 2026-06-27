@@ -1,0 +1,15 @@
+{
+  "name": "cloudfen-audit",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Playwright + axe audit harness for the CloudFen static site",
+  "dependencies": {
+    "axe-core": "^4.12.1",
+    "chrome-launcher": "^1.2.1",
+    "esbuild": "^0.28.1",
+    "image-size": "^2.0.2",
+    "lighthouse": "^13.4.0",
+    "playwright": "^1.61.1"
+  }
+}

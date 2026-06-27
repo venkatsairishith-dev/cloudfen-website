@@ -1,0 +1,12 @@
+# Audit/QA tooling — keep the scripts, ignore heavy generated artifacts
+audit/node_modules/
+audit/screenshots/
+audit/report-*.json
+audit/lh-*.json
+audit/*.output
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
